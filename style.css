@@ -1,0 +1,22 @@
+body {
+  background-color: blanchedalmond;
+  margin: 0 80px;
+  width: 90%;
+  font-size: 20px;
+  font-family: serif;
+  color: rgb(87, 23, 23);
+}
+.conclusion {
+  background-color: rgba(128, 128, 128, 0.438);
+  margin: 0 450px;
+}
+
+ul.Liens {
+  display: table;
+  width: 100%;
+  text-align: center;
+}
+
+ul.Liens > li {
+  display: table-cell;
+}
